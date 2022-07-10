@@ -10,9 +10,7 @@ It is programmed to account for hierarchical calcualtion of the scores, from ref
 The file is based on ICD-10-CM codes, but works with ICD-10 as well
 
 Functions are reapting saving values so you can change comorbidity wieghts  and claculate your own index
-For ISchaemic Stroke comorbidity weights I used following paper (Table 2): 
-https://bit.ly/3PfhKEz
-
+For ISchaemic Stroke comorbidity weights I used Table 2 of https://bit.ly/3PfhKEz 
 
 The scores have been validated with clinicians to ensure the accuracy
 
