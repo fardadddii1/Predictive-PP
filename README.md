@@ -14,7 +14,7 @@ Python3
 
 ### Dependencies:
 
-*Pandas
-*Numpy
+- Pandas
+- Numpy
 
 
