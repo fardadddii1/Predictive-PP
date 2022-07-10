@@ -13,7 +13,8 @@ The file is based on ICD-10-CM codes, but works with ICD-10 as well. The functio
 Python3
 
 ### Dependencies:
-Pandas
-Numpy
+
+Mark up: * Pandas
+         * Numpy
 
 
