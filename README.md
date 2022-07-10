@@ -14,7 +14,7 @@ Python3
 
 ### Dependencies:
 
-Markup: * Pandas
-         * Numpy
+*Pandas
+*Numpy
 
 
