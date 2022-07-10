@@ -1,5 +1,5 @@
 # calculate Charlson Comorbidty Index and Ischemic Stroke Comorbity Index in Python
-## This repository contains codes for calculating Charlson Comorbidty Index and Ischemic Stroke Comorbity Index
+### This repository contains codes for calculating Charlson Comorbidty Index and Ischemic Stroke Comorbity Index
 
 *Prepared by Fardad Mpusavi at SUNY Buffalo, Dec. 2021*
 
@@ -13,4 +13,6 @@ Functions are reapting saving values so you can change comorbidity wieghts  and 
 For ISchaemic Stroke comorbidity weights I used Table 2 of https://bit.ly/3PfhKEz 
 
 The scores have been validated with clinicians to ensure the accuracy
+
+###
 
