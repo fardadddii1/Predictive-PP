@@ -11,7 +11,7 @@ The file is based on ICD-10-CM codes, but works with ICD-10 as well
 
 Functions are reapting saving values so you can change comorbidity wieghts  and claculate your own index
 For ISchaemic Stroke comorbidity weights I used following paper (Table 2): 
-https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-019-4720-y
+https://bit.ly/3PfhKEz
 
 
 The scores have been validated with clinicians to ensure the accuracy
