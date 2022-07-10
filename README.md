@@ -3,7 +3,7 @@
 
 *Prepared by Fardad Mpusavi at SUNY Buffalo, Dec. 2021*
 
-It is programmed to account for hierarchical calcualtion of the scores, from reference paper
+It is programmed to account for hierarchical calcualtion of the scores, quoting from literature:
 
 " Calculation of the maximum score is based on a hierarchy where diabetes with complications supersedes diabetes without complications; moderate or severe liver disease supersedes mild liver disease; and metastatic solid tumor supersedes any malignancy"
 
